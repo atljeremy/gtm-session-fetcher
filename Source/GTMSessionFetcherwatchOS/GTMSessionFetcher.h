@@ -2,7 +2,7 @@
 //  GTMSessionFetcherwatchOS.h
 //
 
-#import "GTMSessionFetcher.h"
+#import "GTMSessionFetcher+Core.h"
 #import "GTMSessionFetcherService.h"
 #import "GTMSessionUploadFetcher.h"
 #import "GTMSessionFetcherService.h"

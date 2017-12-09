@@ -19,7 +19,7 @@
 #import <stdlib.h>
 
 #import "GTMSessionFetcherTestServer.h"
-#import "GTMSessionFetcher.h"
+#import "GTMSessionFetcher+Core.h"
 #import "GTMSessionFetcherLogging.h"
 #import "GTMSessionUploadFetcher.h"
 

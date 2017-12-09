@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-#import "GTMSessionFetcher.h"
+#import "GTMSessionFetcher+Core.h"
 
 // GTM HTTP Logging
 //

@@ -19,7 +19,7 @@
 
 #import <XCTest/XCTest.h>
 
-#import "GTMSessionFetcher.h"
+#import "GTMSessionFetcher+Core.h"
 #import "GTMSessionFetcherLogging.h"
 
 @interface GTMSessionFetcherUtilityTest : XCTestCase

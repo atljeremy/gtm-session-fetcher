@@ -1,8 +1,8 @@
 //
-//  GTMSessionFetchertvOS.h
+//  GTMSessionFetcherIOS.h
 //
 
-#import "GTMSessionFetcher.h"
+#import "GTMSessionFetcher+Core.h"
 #import "GTMSessionFetcherService.h"
 #import "GTMSessionUploadFetcher.h"
 #import "GTMSessionFetcherService.h"
@@ -10,3 +10,5 @@
 #import "GTMGatherInputStream.h"
 #import "GTMMIMEDocument.h"
 #import "GTMReadMonitorInputStream.h"
+
+

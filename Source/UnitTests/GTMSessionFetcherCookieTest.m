@@ -19,7 +19,7 @@
 
 #import <XCTest/XCTest.h>
 
-#import "GTMSessionFetcher.h"
+#import "GTMSessionFetcher+Core.h"
 
 static NSHTTPCookie *CookieWithProps(NSString *discard, NSString *domain, NSString *name,
                                      NSString *path, NSString *value) {

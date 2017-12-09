@@ -17,7 +17,7 @@
 #error "This file requires ARC support."
 #endif
 
-#import "GTMSessionFetcher.h"
+#import "GTMSessionFetcher+Core.h"
 
 #import <sys/utsname.h>
 

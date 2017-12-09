@@ -18,7 +18,7 @@
 //
 
 #import "FTAAppDelegate.h"
-#import "GTMSessionFetcher.h"
+#import "GTMSessionFetcher+Core.h"
 #import "GTMSessionUploadFetcher.h"
 #import "GTMSessionFetcherLogging.h"
 
