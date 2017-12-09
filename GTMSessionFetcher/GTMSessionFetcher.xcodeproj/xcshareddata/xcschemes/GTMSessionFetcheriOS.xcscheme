@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "19DF508C1FD462B5004589A7"
-               BuildableName = "GTMSessionFetcheriOS.framework"
+               BuildableName = "GTMSessionFetcher.framework"
                BlueprintName = "GTMSessionFetcheriOS"
                ReferencedContainer = "container:GTMSessionFetcher.xcodeproj">
             </BuildableReference>
@@ -44,7 +44,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "19DF508C1FD462B5004589A7"
-            BuildableName = "GTMSessionFetcheriOS.framework"
+            BuildableName = "GTMSessionFetcher.framework"
             BlueprintName = "GTMSessionFetcheriOS"
             ReferencedContainer = "container:GTMSessionFetcher.xcodeproj">
          </BuildableReference>
@@ -67,7 +67,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "19DF508C1FD462B5004589A7"
-            BuildableName = "GTMSessionFetcheriOS.framework"
+            BuildableName = "GTMSessionFetcher.framework"
             BlueprintName = "GTMSessionFetcheriOS"
             ReferencedContainer = "container:GTMSessionFetcher.xcodeproj">
          </BuildableReference>
@@ -85,7 +85,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "19DF508C1FD462B5004589A7"
-            BuildableName = "GTMSessionFetcheriOS.framework"
+            BuildableName = "GTMSessionFetcher.framework"
             BlueprintName = "GTMSessionFetcheriOS"
             ReferencedContainer = "container:GTMSessionFetcher.xcodeproj">
          </BuildableReference>
